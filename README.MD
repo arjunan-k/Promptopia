@@ -1,5 +1,5 @@
-# <p align="center" id="top">Promptopia</p>
 <p align="center" width="50px" height="50px"><img src="./public/assets/images/preview-00.png"/></p>
+# <p align="center" id="top">Promptopia</p>
 
 1. Clone this repo
 2. `cd Promptopia`
