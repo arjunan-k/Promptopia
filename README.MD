@@ -1,4 +1,4 @@
-<p align="center" width="40"<img src="./public/assets/images/preview-00.png"/></p>
+<p align="center" width="20"><img src="./public/assets/images/preview-00.png"/></p>
 
 # <p align="center" id="top">Promptopia</p>
 
